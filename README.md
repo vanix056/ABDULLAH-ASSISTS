@@ -175,19 +175,6 @@ The following external API keys are embedded in `InitForm.java` and should be re
 
 **Sphinx4 resources** (dictionary + language model) are resolved relative to `System.getProperty("user.dir")` at runtime. Ensure the working directory is the project root when launching.
 
-## Screenshots
-
-<img src="images/VA_Main.png" alt="Main Interface" width="800"/>
-<img src="images/VA_Voice.png" alt="Voice Input" width="800"/>
-<img src="images/VA_WeatherForecast1.png" alt="Weather Forecast" width="800"/>
-<img src="images/VA_WeatherForecast2.png" alt="Weather Forecast Detail" width="800"/>
-<img src="images/VA_SearchFor.png" alt="Search Command" width="800"/>
-<img src="images/VA_SearchForResult.png" alt="Search Result" width="800"/>
-<img src="images/VA_Manual.png" alt="Help Manual" width="800"/>
-<img src="images/VA_Launching.png" alt="Launch Screen" width="800"/>
-<img src="images/VA_Creators.png" alt="Creators Panel" width="800"/>
-<img src="images/VA_License.png" alt="License Panel" width="800"/>
-
 ## Contributing
 
 1. Fork the repository and create a feature branch from `main`.
