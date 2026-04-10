@@ -50,7 +50,7 @@ Abdullah Assists is a feature-rich desktop virtual assistant built with Java Swi
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/vanix056/ABDULLAH-ASSISTS.git
+git clone https://github.com/MAbdullahWaqar/ABDULLAH-ASSISTS.git
 cd ABDULLAH-ASSISTS
 
 # 2. Install dependencies
@@ -191,4 +191,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Muhammad Abdullah Waqar**  
 Student, National University of Sciences and Technology (NUST)  
-GitHub: [@vanix056](https://github.com/vanix056)
+GitHub: [@MAbdullahWaqar](https://github.com/MAbdullahWaqar)
